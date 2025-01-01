@@ -25,4 +25,5 @@ Welcome to the *Wonders of the World* website! This project showcases the most i
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/wonders-of-the-world.git
+   git clone https://github.com/tasnimelgarbi/wonders-of-the-world.git
+
