@@ -1,6 +1,6 @@
-# Wonders of the World Website 🌍
+# Wonders of the World Website 
 
-Welcome to the *Wonders of the World* website! This project showcases the most iconic ancient and modern wonders of the world, providing visitors with detailed descriptions, stunning visuals, and an engaging experience.
+This project showcases the most iconic ancient and modern wonders of the world, providing visitors with detailed descriptions, stunning visuals, and an engaging experience.
 
 ## Features
 
